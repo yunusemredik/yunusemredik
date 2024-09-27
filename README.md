@@ -1,7 +1,6 @@
-[![MasterHead](https://media.licdn.com/dms/image/v2/D4D03AQHQat5yMdW-Cw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1726593933999?e=1732752000&v=beta&t=mWxOifmWOCJGITRfs_9lRWe3H22QtfK8AJxpBi4WgcQ)
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from Turkey</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: yunusemredik@gmail.com</h3>
 <p align="left">
 <a href="https://twitter.com/eticarets" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="eticarets" height="30" width="40" /></a>
 <a href="https://instagram.com/yunuschill" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yunuschill" height="30" width="40" /></a>
